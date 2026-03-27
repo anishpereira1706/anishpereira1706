@@ -1,36 +1,45 @@
 <div align="center">
-  <h1>Hi there 👋, I'm an MCA Graduate & Developer</h1>
-  <h3>🚀 Passionate about building impactful software</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00a0,100:00FFcc&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B,%20I'm%20Anish%20Pereira&fontSize=42&fontAlignY=36&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF99&background=100C2400&center=true&vCenter=true&width=535&lines=Building+impactful+software;Front-End+%2B+Mobile+Developer;IoT+%26+Python+Enthusiast;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFcc&background=100C2400&center=true&vCenter=true&width=535&lines=Web+Developer;AI+%26+ML+Enthusiast;Creative+Designer;Always+learning+new+tech!" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p>I recently graduated with a Master of Computer Applications (MCA) and I love combining different technologies spanning across Web, Mobile, IoT, and backend development to create supercool applications.</p>
+  <p>I am a passionate <b>Web Developer</b> and a curious <b>AI / ML Enthusiast</b>. I love designing, innovating, and building high-performance modern web apps, along with wielding the power of the Adobe suite to make things look visually stunning! 🌟</p>
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+</p>
 
-### 🛠️ My Tech Stack
+### ✨ My Tech Stack & Toolkit
 
-**Mobile & Frontend:** <br>
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Web & Mobile:** <br>
+![React](https://img.shields.io/badge/react-00FFcc?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Backend, Scripting & Others:** <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![IoT / Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Data Science & Backend:** <br>
+![Python](https://img.shields.io/badge/python-FF00a0?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
+**Design & Creative:** <br>
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+</p>
 
 ### 🐍 GitHub Contribution Snake Game
 *Watch the snake eat my contributions!*
@@ -45,14 +54,18 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Glowing Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishpereira1706&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishpereira1706&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishpereira1706&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+</p>
 
 <div align="center">
   <br/>
-  <i>Let's connect and build something awesome together!</i>
+  <i>Let's connect and build something awesome together! 🚀</i>
 </div>
-
