@@ -57,10 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishpereira1706&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
-
 <div align="center">
   <br/>
   <i>Let's connect and build something awesome together! 🚀</i>
