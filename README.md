@@ -41,9 +41,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
 </p>
 
-### 🐍 GitHub Contribution Snake Game
-*Watch the snake eat my contributions!*
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishpereira1706/anishpereira1706/output/github-contribution-grid-snake-dark.svg">
@@ -57,7 +54,6 @@
 ### 📈 Glowing Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishpereira1706&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishpereira1706&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </div>
 
