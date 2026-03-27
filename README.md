@@ -1,9 +1,3 @@
-<!-- 
-  Hi there! 
-  1. Replace all instances of <YOUR-GITHUB-USERNAME> with your actual GitHub username.
-  2. Copy this content into your GitHub Profile README (create a repo with the exact same name as your username e.g. Anish/Anish)
--->
-
 <div align="center">
   <h1>Hi there 👋, I'm an MCA Graduate & Developer</h1>
   <h3>🚀 Passionate about building impactful software</h3>
@@ -62,3 +56,4 @@
   <br/>
   <i>Let's connect and build something awesome together!</i>
 </div>
+
