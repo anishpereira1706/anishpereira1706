@@ -12,10 +12,6 @@
   <p>I am a passionate <b>Web Developer</b> and a curious <b>AI / ML Enthusiast</b>. I love designing, innovating, and building high-performance modern web apps, along with wielding the power of the Adobe suite to make things look visually stunning! 🌟</p>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
-
 ### ✨ My Tech Stack & Toolkit
 
 **Web & Mobile:** <br>
@@ -36,10 +32,6 @@
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
 
 <div align="center">
   <picture>
