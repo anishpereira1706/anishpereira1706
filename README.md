@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF00a0,00FFcc&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B,%20I%20am%20Anish%20Pereira&fontSize=42&fontAlignY=36&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff" alt="Header Banner" />
+  <h1>Hi there 👋, I am Anish Pereira 🚀</h1>
 </div>
 
 <div align="center">
