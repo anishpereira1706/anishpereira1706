@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <p>I am a passionate <b>Web Developer</b> and a curious <b>AI / ML Enthusiast</b>. I love designing, innovating, and building high-performance modern web apps, along with wielding the power of the Adobe suite to make things look visually stunning! 🌟</p>
+  <p>I am a passionate <b>Web Developer</b> and a curious <b>AI / ML Enthusiast</b>. I love designing, innovating, and building high-performance modern web apps with a strong focus on seamless user experiences and clean aesthetics. 🌟</p>
 </div>
 
 ### ✨ My Tech Stack & Toolkit
