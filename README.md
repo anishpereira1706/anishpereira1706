@@ -1,8 +1,10 @@
-# 🌌 Hi there, I'm Anish Pereira! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="28">
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=00FFCC&background=100C2400&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Creative+UI%2FUX+Designer;Building+tomorrow's+solutions+today" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,15&height=220&section=header&text=Anish%20Pereira&fontSize=50&animation=fadeIn&fontColor=00FFCC" width="100%" />
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&pause=1000&color=00FFCC&background=100C2400&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Creative+UI%2FUX+Designer;Building+tomorrow's+solutions+today" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="mailto:anishpereira1706@gmail.com"><img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
@@ -30,48 +32,32 @@ const anish = {
 
 ---
 
-## 🛠️ My Tech Stack & Toolkit
+## 🛠️ Tech Stack & Toolkit
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>💻 Web & Mobile</h3>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <br/>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🧠 Data Science & AI</h3>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🎨 Creative & Design</h3>
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+### 💻 Web & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-</div>
+### 🧠 Data Science & AI/ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🎨 Creative & Design Suite
+<p align="left">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+</p>
 
 ---
 
