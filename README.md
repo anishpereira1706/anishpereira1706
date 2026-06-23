@@ -10,10 +10,6 @@
   <a href="https://behance.net/anishpereira"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
-
 ---
 
 ## ⚡ About Me
@@ -100,9 +96,7 @@ const anish = {
   </table>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
-</p>
+---
 
 <div align="center">
   <h3>✨ Let's Connect & Collaborate!</h3>
