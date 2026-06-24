@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="mailto:anishpereira1706@gmail.com"><img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
-  <a href="https://linkedin.com/in/anishpereira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://behance.net/anishpereira"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://instagram.com/anishpereiraa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -87,7 +86,7 @@ const anish = {
 <div align="center">
   <h3>✨ Let's Connect & Collaborate!</h3>
   <p>
-    <a href="https://linkedin.com/in/anishpereira"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:anishpereira1706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://instagram.com/anishpereiraa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   </p>
 </div>
