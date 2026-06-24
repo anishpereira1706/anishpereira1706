@@ -7,6 +7,7 @@
 </div>
 
 <p align="center">
+  <a href="https://anishpereira.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
   <a href="mailto:anishpereira1706@gmail.com"><img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
   <a href="https://instagram.com/anishpereiraa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -86,6 +87,7 @@ const anish = {
 <div align="center">
   <h3>✨ Let's Connect & Collaborate!</h3>
   <p>
+    <a href="https://anishpereira.dev" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-00FFCC?style=flat&logo=googlechrome&logoColor=black" /></a>
     <a href="mailto:anishpereira1706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="https://instagram.com/anishpereiraa"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   </p>
