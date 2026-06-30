@@ -67,7 +67,7 @@ const anish = {
   <table border="0">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=anishpereira1706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anish's GitHub Stats" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishpereira1706&theme=tokyonight" alt="Anish's GitHub Stats" width="100%"/>
       </td>
       <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishpereira1706&theme=tokyonight&hide_border=true" alt="Anish's GitHub Streak" width="100%"/>
@@ -76,7 +76,7 @@ const anish = {
     <tr>
       <td align="center" colspan="2">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishpereira1706&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anishpereira1706&theme=tokyonight" alt="Top Languages" width="60%" />
       </td>
     </tr>
   </table>
